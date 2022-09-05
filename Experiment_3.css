@@ -1,0 +1,102 @@
+#profile,#name,#logo{
+    display: inline;
+    background-color: #892ae0;
+}
+#logo{
+    border: 10px solid white; 
+}
+header{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #892ae0;
+}
+#name{
+    text-align: center;
+    padding: 0px 350px;
+    color: #f2c5ff;
+}
+#logo{
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    margin: 30px;
+}
+a{
+    display: inline;
+    color: black;
+    padding: 10px 120px;
+    text-decoration: none;
+    font-size: large;
+}
+a:hover{
+    background-color: lightgreen;
+}
+nav{
+    background-color: #a4d3ed;
+    padding: 10px;
+    margin: 0px 20px;
+}
+.container1 p,img{
+    display: inline-block;
+}
+#content{
+    width: 350px;
+    height: 200px;
+    padding: 50px;
+    margin: 0px;
+    background-color: #a4d3ed;
+    margin: 0px 50px;
+    border: 5px dotted #215797;
+}
+.container1{
+    background-color: #1c9198;
+    margin: 0px 20px;
+    text-align: justify;
+}
+.container1 img{
+    width: 670px;
+    height: 310px;
+    position: absolute;
+    right: 0px;
+    margin-right: 30px;
+}
+.container2{
+    background-color: #dddedf;
+    margin: 0px 20px;
+}
+container2 td{
+    width:25%;
+}
+.container3 img{
+    width: 250px;
+    height: auto;
+    border-radius: 50%;
+    transition: 2s;
+}
+.container3{
+    background-image: url(./background.jpg);
+    background-position: 70%;
+    margin: 0px 20px;
+    border: 15px solid rgb(208, 220, 230);
+}
+table{
+    text-align: center;
+    width:100%;
+    margin: 0px 20px;
+}
+.container3 img:hover{
+    border-radius: 0%;
+}
+#names{
+    font-weight: bold;
+    font-size: large;
+    color:#51ac70;
+}
+.container4{
+    margin: 0px 20px;
+    background-color: #fde4c5;
+}
+body{
+    border: 2px solid;
+}
+
